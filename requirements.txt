@@ -1,0 +1,6 @@
+# Install a CUDA-compatible PyTorch and a Qwen3-VL-compatible Transformers build first.
+# Exact versions from the measured environment are documented in README.md.
+numpy>=2.0
+Pillow>=10.0
+accelerate>=1.0
+safetensors>=0.7
